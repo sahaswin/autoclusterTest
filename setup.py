@@ -28,7 +28,6 @@ install_requires = [
     'pyparsing',
     'python-dateutil',
     'pytz',
-    'scikit-learn',
     'scipy',
     'six',
     'sklearn'
